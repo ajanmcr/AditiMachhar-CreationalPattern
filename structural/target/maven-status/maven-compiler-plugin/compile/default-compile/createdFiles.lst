@@ -1,0 +1,10 @@
+com\pattern\Structural\structural\BasicCar.class
+com\pattern\Structural\structural\CarDecorator.class
+com\pattern\Structural\structural\proxy\CommandExecutorImpl.class
+com\pattern\Structural\structural\proxy\CommandExecutor.class
+com\pattern\Structural\structural\proxy\CommandExecutorProxy.class
+com\pattern\Structural\structural\proxy\ProxyPatternTest.class
+com\pattern\Structural\structural\SportsCar.class
+com\pattern\Structural\structural\DecoratorPatternTest.class
+com\pattern\Structural\structural\LuxuryCar.class
+com\pattern\Structural\structural\Car.class
